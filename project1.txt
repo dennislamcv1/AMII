@@ -1,0 +1,10 @@
+This a public university which has a common IT and AV support team to do technical support for end users.
+
+The university has no experience and staff in using or developing machine learning. Hence it is Initial stage.
+There are some data available within a system, no machine learning expertise, no business strategy.
+
+Business outcome is predict number of cases per day. The reason is the number of cases allows better deployment of services and manpower to settle cases. The outcome is cost and time savings.
+
+The machine learning project will have time based combined with regression model to predict cases. 
+
+This is a low risk project. I recommend Proof of Concept (Trial) to be conducted to see if it is feasible.
